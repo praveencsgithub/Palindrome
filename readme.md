@@ -15,6 +15,6 @@
 
 # Time taken to finish this project is 2 hours.
 
-[Live link]()
+[Live link](https://sparkling-salmiakki-27db38.netlify.app/)
 
 
